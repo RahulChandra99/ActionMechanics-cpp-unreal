@@ -1,2 +1,2 @@
-# actionMechanics-cpp-unreal
+# ActionMechanics-cpp-unreal
 Unreal C++ Gameplay Mechanics
